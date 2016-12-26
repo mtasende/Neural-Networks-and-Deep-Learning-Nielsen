@@ -3,7 +3,6 @@ These are the IPython notebooks that I wrote when following Michael Nielsen's bo
 
 I copy, below, M. Nielsen's license for the initial code.
 
-Miguel Tasende
 
 
 
