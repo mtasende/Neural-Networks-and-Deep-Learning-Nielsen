@@ -1,5 +1,5 @@
 # Neural-Networks-and-Deep-Learning-Nielsen
-These are the IPython notebooks that I wrote when following Michael Nielsen's book "Neural Networks and Deep Learning". They are named: cap1.ipynb, cap2.ipynb, cap3.ipynb, cap5.ipynb, cap6.ipynb
+In the "/src" folder the IPython notebooks, that I wrote when following Michael Nielsen's book "Neural Networks and Deep Learning", can be found. They are named: cap1.ipynb, cap2.ipynb, cap3.ipynb, cap5.ipynb, cap6.ipynb
 
 I copy, below, M. Nielsen's license for the initial code.
 
